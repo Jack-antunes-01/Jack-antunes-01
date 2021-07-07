@@ -2,9 +2,11 @@ Hi, I’m Jackson.
 <br />
 I am going to the seventh period of the information systems course at UNIUBE university.
 <br />
-I’m interested in work.
+I'm actually working with react native at InvestInMe where I do front-end.
 <br />
-I’m currently learning Laravel and .NET.
+I’m currently learning Laravel, .NET and I pretend to learn nodeJs.
+<br />
+(Today is 2020-07-07, wait until my next update)
 <br />
 I already know a few languages and frameworks like: Javascript, java, react native, php.
 <br />
