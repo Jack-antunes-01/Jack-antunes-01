@@ -12,6 +12,10 @@ I already know a few languages and frameworks like: Javascript, java, react nati
 <br />
 I'm from Brazil and I'm 20 years old :)
 
+Update: 1 <br />
+Well.. Today 2020-07-20, i finished Next Level Week NodeJS course from RocketSeat :) <br />
+I m learning back-end to be a full stack developer
+
 <!---
 Jack-antunes-01/Jack-antunes-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
