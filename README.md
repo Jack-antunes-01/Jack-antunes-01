@@ -1,25 +1,34 @@
-Hi, I’m Jackson. 
-<br />
-I am going to the seventh period of the information systems course at UNIUBE university.
-<br />
-I'm actually working with react native at InvestInMe where I do front-end.
-<br />
-I’m currently learning Laravel, .NET and I pretend to learn nodeJs.
-<br />
-(Today is 2020-07-07, wait until my next update)
-<br />
-I already know a few languages and frameworks like: Javascript, java, react native, php.
-<br />
-I'm from Brazil and I'm 20 years old :)
+### Hello :)
 
-Update: 1 <br />
-Well.. Today 2020-07-20, i finished Next Level Week NodeJS course from RocketSeat :) <br />
-I m learning back-end to be a full stack developer
+**I'm Jackson Antunes, 20 years old**. I'm a React Native developer, i actually do. 
 
-Update: 2 <br />
-Well.. Today 2020-07-30, i finished Next Level Week React Native course from RocketSeat :) <br />
+:iphone: Mobile applications for Android with **React Native** <br/> 
+:satellite: I'm not too god with **NodeJs**, but i'm studying <br/>
 
-<!---
-Jack-antunes-01/Jack-antunes-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I know a little of: 
+
+<p>
+<img src="https://www.creativefreedom.co.uk/wp-content/uploads/2013/03/00-android-4-0_icons.png" height="35px"/>
+&nbsp;  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
+&nbsp;  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
+&nbsp;
+<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
+&nbsp;
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
+&nbsp;
+<img src="https://img.icons8.com/color/452/firebase.png" height="35px" />   
+&nbsp;
+<img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
+&nbsp;  
+<img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" />    
+&nbsp;
+<img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
+&nbsp;
+<img src="https://code-maven.com/img/python.png" height="35px" />   
+</p>
+
+:mortar_board: I am studiyng Information Systems at Universidade de Uberaba (UNIUBE) and i'm in seventh period. 
