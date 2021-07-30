@@ -16,6 +16,9 @@ Update: 1 <br />
 Well.. Today 2020-07-20, i finished Next Level Week NodeJS course from RocketSeat :) <br />
 I m learning back-end to be a full stack developer
 
+Update: 2 <br />
+Well.. Today 2020-07-30, i finished Next Level Week React Native course from RocketSeat :) <br />
+
 <!---
 Jack-antunes-01/Jack-antunes-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
