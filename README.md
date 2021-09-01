@@ -29,6 +29,10 @@ I know a little of:
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
 &nbsp;
 <img src="https://code-maven.com/img/python.png" height="35px" />   
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" height="35px" />  
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" height="35px" />  
 </p>
 
 :mortar_board: I am studiyng Information Systems at Universidade de Uberaba (UNIUBE) and i'm in seventh period. 
