@@ -2,7 +2,7 @@
 
 **I'm Jackson Antunes, 20 years old**. I'm a React Native developer, i actually do. 
 
-:iphone: Mobile applications for Android with **React Native** <br/> 
+:iphone: Mobile applications for Android and IOS with **React Native** <br/> 
 :satellite: I'm not too god with **NodeJs**, but i'm studying <br/>
 
 I know a little of: 
@@ -42,5 +42,5 @@ I know a little of:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-antunes-01&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
-  ![Snake animation](https://github.com/JaksonJose/JaksonJose/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Jack-antunes-01/Jack-antunes-01/blob/output/github-contribution-grid-snake.svg)
  
