@@ -1,6 +1,6 @@
 ### Hello :)
 
-**I'm Jackson Antunes, 20 years old**. I'm a React Native developer, i actually do. 
+**I'm Jackson Antunes, 21 years old**. I'm a React Native developer, i actually do. 
 
 :iphone: Mobile applications for Android and IOS with **React Native** <br/> 
 :satellite: I'm not too god with **NodeJs**, but i'm studying <br/>
@@ -33,7 +33,7 @@ I know a little of:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" height="35px" />  
 </p>
 
-:mortar_board: I am studiyng Information Systems at Universidade de Uberaba (UNIUBE) and i'm in seventh period. 
+:mortar_board: I am studiyng Information Systems at Universidade de Uberaba (UNIUBE) and i'm in eighth period. 
 
 <div>
   <h3>My Stats</h3>
