@@ -3,7 +3,7 @@
 **I'm Jackson Antunes, 21 years old**. I'm a React Native developer, i actually do. 
 
 :iphone: Mobile applications for Android and IOS with **React Native** <br/> 
-:satellite: I'm not too god with **NodeJs**, but i'm studying <br/>
+:satellite: I'm studying **NodeJs** <br/>
 
 I know a little of: 
 
