@@ -1,5 +1,7 @@
 ### Hello :)
 
+**Don't mind about 70%+ javascript on my statistics, i know typescript and it will slowly increase**
+
 **I'm Jackson Antunes, 21 years old**. I'm a React Native developer, i actually do:
 
 :iphone: Mobile applications for Android and IOS with **React Native** <br/> 
