@@ -5,7 +5,7 @@
 **I'm Jackson Antunes, 21 years old**. I'm a React Native developer, i actually do:
 
 :iphone: Mobile applications for Android and IOS with **React Native** <br/> 
-:satellite: I'm studying **NodeJs** <br/>
+:satellite: I'm studying **Flutter** and i'm really interested in switching from React Native to Flutter <br/>
 
 I know a little of: 
 
