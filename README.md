@@ -1,41 +1,41 @@
-### Hello :)
+## Hello ✅
 
-**Don't mind about 70%+ javascript on my statistics, i know typescript and it will slowly increase**
+**My name's Jackson Antunes, 21 years old**. 
 
-**I'm Jackson Antunes, 21 years old**. I'm a React Native developer, i actually do:
-
-:iphone: Mobile applications for Android and IOS with **React Native** <br/> 
-:satellite: I'm studying **Flutter** and i'm really interested in switching from React Native to Flutter <br/>
-
-I know a little of: 
+I'm a mobile developer, now studying **Flutter**. <br /> 
+  
+I'm actually working with: 
 
 <p>
-<img src="https://www.creativefreedom.co.uk/wp-content/uploads/2013/03/00-android-4-0_icons.png" height="35px"/>
-&nbsp;  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
-&nbsp;  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
-&nbsp;
-<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
-&nbsp;
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" height="35px"/>
 &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
 &nbsp;
-<img src="https://img.icons8.com/color/452/firebase.png" height="35px" />   
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="35px" />   
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" height="35px" /> 
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" height="35px" /> 
 &nbsp;
 <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
 &nbsp;  
-<img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" />    
-&nbsp;
-<img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
-&nbsp;
-<img src="https://code-maven.com/img/python.png" height="35px" />   
-&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" height="35px" />  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" height="35px" /> 
+ 
 </p>
 
-:mortar_board: I am studiyng Information Systems at Universidade de Uberaba (UNIUBE) and i'm in eighth period. 
+:mortar_board: I am studiyng Information Systems at Universidade de Uberaba (UNIUBE) and i'm in the last period (8º). 
+
+### Information Card
+```jsx
+{
+  id: '3adc90593a39a8036c3fd1a070039f78', // MD5
+  name: 'Jackson Antunes',
+  age: 21,
+  occupation: 'Mobile Developer',
+  working: true,
+  studying: 'ever',
+}
+```
 
 <div>
   <h3>My Stats</h3>
@@ -50,3 +50,23 @@ I know a little of:
 </div>
 
  
+<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
+&nbsp;  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
+&nbsp;
+<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
+&nbsp; 
+
+I know and i don't have experience with: <br />
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" height="35px" />  
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="35px" /> 
+  &nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px" /> 
+  &nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="35px" /> 
+  &nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" height="35px" /> 
+  </p>
+-->
