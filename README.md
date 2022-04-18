@@ -1,4 +1,4 @@
-## Hello ✅
+## Hello ✅ <img align="right" src="https://komarev.com/ghpvc/?username=Jack-antunes-01&style=flat-square&color=blueviolet">
 
 **My name's Jackson Antunes, 21 years old**. 
 
@@ -26,6 +26,7 @@ I'm actually working with:
 :mortar_board: I am studiyng Information Systems at Universidade de Uberaba (UNIUBE) and i'm in the last period (8º). 
 
 ### Information Card
+
 ```jsx
 {
   id: '3adc90593a39a8036c3fd1a070039f78', // MD5
