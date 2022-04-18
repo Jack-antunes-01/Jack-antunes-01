@@ -29,6 +29,8 @@ I'm a mobile developer, now studying **Flutter**. <br />
 
 🌎 I'm from Brazil
 
+<br />
+
 ## Information Card
 
 ```jsx
