@@ -1,10 +1,12 @@
-## Hello ✅ <img align="right" src="https://komarev.com/ghpvc/?username=Jack-antunes-01&style=flat-square&color=blueviolet">
+## Hello, welcome! <img align="right" src="https://komarev.com/ghpvc/?username=Jack-antunes-01&style=flat-square&color=blueviolet">
+
+<img src="./images/message.gif" width="300px" align="right">
 
 **My name's Jackson Antunes, 21 years old**. 
 
 I'm a mobile developer, now studying **Flutter**. <br /> 
   
-I'm actually working with: 
+👨🏻‍💻 I'm actually working with: 
 
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" height="35px"/>
@@ -23,9 +25,11 @@ I'm actually working with:
  
 </p>
 
-:mortar_board: I am studiyng Information Systems at Universidade de Uberaba (UNIUBE) and i'm in the last period (8º). 
+:mortar_board: I am studying Information Systems at Universidade de Uberaba (UNIUBE) and i'm in the last period (8º). 
 
-### Information Card
+🌎 I'm from Brazil
+
+## Information Card
 
 ```jsx
 {
@@ -41,7 +45,7 @@ I'm actually working with:
 <div>
   <h3>My Stats</h3>
   <a href="https://github.com/Jack-antunes-01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jack-antunes-01&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jack-antunes-01&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-antunes-01&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
