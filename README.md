@@ -4,28 +4,22 @@
 
 **My name's Jackson Antunes, 21 years old**. 
 
-I'm a mobile developer, now studying **Flutter**. <br /> 
+I'm a mobile developer. <br /> 
   
 👨🏻‍💻 I'm actually working with: 
 
 <p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" height="35px"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
 &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="35px" />   
 &nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" height="35px" /> 
-&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" height="35px" /> 
 &nbsp;
-<img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
-&nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" height="35px" /> 
  
 </p>
 
-:mortar_board: I am studying Information Systems at Universidade de Uberaba (UNIUBE) and i'm in the last period (8º). 
+:mortar_board: I graduated in Information Systems at Universidade de Uberaba (UNIUBE). 
 
 🌎 I'm from Brazil
 
@@ -59,10 +53,7 @@ I'm a mobile developer, now studying **Flutter**. <br />
  
 <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
 &nbsp;  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
-&nbsp;
-<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
-&nbsp; 
+
 
 I know and i don't have experience with: <br />
 <p>
