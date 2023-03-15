@@ -33,7 +33,7 @@ I'm a mobile developer. <br />
   age: 22,
   occupation: 'Mobile Developer',
   working: true,
-  studying: 'ever',
+  studying: Studying.EVER,
 }
 ```
 
